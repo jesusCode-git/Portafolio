@@ -115,7 +115,7 @@ body {
 }
 
 .work .card-bg-1-4 {
-  background-image: linear-gradient(180deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url(../../assets/imo.png);
+  background-image: linear-gradient(180deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url(assets/imo.png);
   background-repeat: no-repeat;
   background-position: 43.5% 0%;
   background-size: cover;
@@ -126,23 +126,23 @@ body {
 }
 
 .work .card-bg-2-5 {
-  background-image: linear-gradient(180deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url(../../assets/work-card-bg-2-5.png);
+  background-image: linear-gradient(180deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url(assets/work-card-bg-2-5.png);
   background-repeat: no-repeat;
   background-position: 43.5% 0%;
   background-size: cover;
 }
 
 .work .card-bg-2-5:hover {
-  background-image: url(../../assets/work-card-bg-2-5.png);
+  background-image: url(assets/work-card-bg-2-5.png);
 }
 
 .work .card-bg-3-6 {
-  background-image: linear-gradient(180deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url(../../assets/work-card-bg-3-6.png);
+  background-image: linear-gradient(180deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url(assets/work-card-bg-3-6.png);
   background-repeat: no-repeat;
   background-position: 45% 0%;
   background-size: cover;
 }
 
 .work .card-bg-3-6:hover {
-  background-image: url(../../assets/work-card-bg-3-6.png);
+  background-image: url(assets/work-card-bg-3-6.png);
 }
